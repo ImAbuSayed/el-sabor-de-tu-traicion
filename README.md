@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-sabor-de-tu-traicion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El sabor de tu traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-sabor-de-tu-traicion/) |
+| **Get License** | [Obtain a Music License for El sabor de tu traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-sabor-de-tu-traicion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5f9befd535f597e9bd868a9bf863587df06e651acf82f15fdeb85220b857f6ce` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

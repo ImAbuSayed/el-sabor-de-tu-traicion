@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El sabor de tu traición
+
+This log tracks the cryptographic history and versioning for the song **El sabor de tu traición** (el-sabor-de-tu-traicion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:11:20.682845 | `v1` | `5f9befd535f597e9bd868a9bf863587df06e651acf82f15fdeb85220b857f6ce` | `a5bbfeb584b52fbacd89049782ad1c77e9c4cd5a6d2f2e1d844dc4ce2ffdc7d7` | `2026-06-13_el-sabor-de-tu-traicion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
