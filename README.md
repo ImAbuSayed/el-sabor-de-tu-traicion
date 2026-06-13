@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-sabor-de-tu-traicion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El sabor de tu traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-sabor-de-tu-traicion/) |
+| **Get License** | [Official Music Licensing for El sabor de tu traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-sabor-de-tu-traicion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> El sabor de tu traición me tiene adicto
+> Baby, este fuego entre los dos es un conflicto
+> Me miras de lejos, sabes que no me resisto
+> Esta noche te robo y de nuevo me desvisto
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
